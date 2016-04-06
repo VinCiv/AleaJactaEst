@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="alea_button" type="id">alea_dice_value</item>
+</resources>

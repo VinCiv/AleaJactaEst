@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="130.00000pt"
+   id="svg2337"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="dices.svg"
+   sodipodi:version="0.32"
+   width="450.00000pt"
+   version="1.1">
+  <metadata
+     id="metadata3">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>Six-Sided Dice Faces</dc:title>
+        <dc:description>Six sided white dice. Faces represented with black dots counting out one (1), two (2), three (3), four (4), five (5), and six (6).</dc:description>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>dice</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <dc:publisher>
+          <cc:Agent
+             rdf:about="http://www.openclipart.org/">
+            <dc:title>Open Clip Art Library</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Lion Kimbro</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>Public Domain</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:date>2005-09-19</dc:date>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <cc:license
+           rdf:resource="http://web.resource.org/cc/PublicDomain" />
+        <dc:language>en</dc:language>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://web.resource.org/cc/PublicDomain">
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Reproduction" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Distribution" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs2339" />
+  <sodipodi:namedview
+     bordercolor="#666666"
+     borderopacity="1.0"
+     id="base"
+     inkscape:current-layer="layer1"
+     inkscape:cx="300.34281"
+     inkscape:cy="61.216192"
+     inkscape:document-units="px"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:window-height="510"
+     inkscape:window-width="704"
+     inkscape:window-x="44"
+     inkscape:window-y="58"
+     inkscape:zoom="1.4"
+     pagecolor="#ffffff"
+     showgrid="false" />
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <g
+       id="g4195"
+       inkscape:export-xdpi="169"
+       inkscape:export-ydpi="169">
+      <rect
+         height="75"
+         id="rect2254"
+         rx="25"
+         ry="25"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#008000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none"
+         width="75"
+         x="437.14279"
+         y="43.43359" />
+      <circle
+         id="path2256"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none"
+         cx="456.39279"
+         cy="62.68359"
+         r="6.25" />
+      <circle
+         id="path2258"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none"
+         cx="456.39279"
+         cy="98.683594"
+         r="6.25" />
+      <circle
+         id="path2260"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none"
+         cx="456.39279"
+         cy="80.683594"
+         r="6.25" />
+      <circle
+         id="path2262"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none"
+         cx="492.39279"
+         cy="62.68359"
+         r="6.25" />
+      <circle
+         id="path2264"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none"
+         cx="492.39279"
+         cy="98.683594"
+         r="6.25" />
+      <circle
+         id="path2266"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none"
+         cx="492.39279"
+         cy="80.683594"
+         r="6.25" />
+    </g>
+    <g
+       id="g2268"
+       transform="matrix(0.500000,0.000000,0.000000,0.500000,251.6428,-95.49748)"
+       inkscape:export-filename="/home/vincent/AndroidStudioProjects/AleaJactaEst/app/src/main/res/drawable/dice5.png"
+       inkscape:export-xdpi="169.41176"
+       inkscape:export-ydpi="169.41176">
+      <rect
+         height="150.00000"
+         id="rect2270"
+         rx="50.000000"
+         ry="50.000000"
+         style="opacity:1;color:#000000;fill:#008000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible"
+         width="150.00000"
+         x="213.00000"
+         y="277.86218" />
+      <path
+         d="m 337.5,227.36218 a 12.5,12.5 0 0 1 -12.5,12.5 12.5,12.5 0 0 1 -12.5,-12.5 12.5,12.5 0 0 1 12.5,-12.5 12.5,12.5 0 0 1 12.5,12.5 z"
+         id="path2272"
+         sodipodi:cx="325.00000"
+         sodipodi:cy="227.36218"
+         sodipodi:rx="12.500000"
+         sodipodi:ry="12.500000"
+         sodipodi:type="arc"
+         style="opacity:1;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible"
+         transform="translate(-73.50000,89.00000)" />
+      <path
+         d="m 337.5,227.36218 a 12.5,12.5 0 0 1 -12.5,12.5 12.5,12.5 0 0 1 -12.5,-12.5 12.5,12.5 0 0 1 12.5,-12.5 12.5,12.5 0 0 1 12.5,12.5 z"
+         id="path2274"
+         sodipodi:cx="325.00000"
+         sodipodi:cy="227.36218"
+         sodipodi:rx="12.500000"
+         sodipodi:ry="12.500000"
+         sodipodi:type="arc"
+         style="opacity:1;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible"
+         transform="translate(-73.50000,161.0000)" />
+      <path
+         d="m 337.5,227.36218 a 12.5,12.5 0 0 1 -12.5,12.5 12.5,12.5 0 0 1 -12.5,-12.5 12.5,12.5 0 0 1 12.5,-12.5 12.5,12.5 0 0 1 12.5,12.5 z"
+         id="path2276"
+         sodipodi:cx="325.00000"
+         sodipodi:cy="227.36218"
+         sodipodi:rx="12.500000"
+         sodipodi:ry="12.500000"
+         sodipodi:type="arc"
+         style="opacity:1;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible"
+         transform="translate(-1.500000,89.00000)" />
+      <path
+         d="m 337.5,227.36218 a 12.5,12.5 0 0 1 -12.5,12.5 12.5,12.5 0 0 1 -12.5,-12.5 12.5,12.5 0 0 1 12.5,-12.5 12.5,12.5 0 0 1 12.5,12.5 z"
+         id="path2278"
+         sodipodi:cx="325.00000"
+         sodipodi:cy="227.36218"
+         sodipodi:rx="12.500000"
+         sodipodi:ry="12.500000"
+         sodipodi:type="arc"
+         style="opacity:1;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible"
+         transform="translate(-1.500000,161.0000)" />
+      <path
+         d="m 337.5,227.36218 a 12.5,12.5 0 0 1 -12.5,12.5 12.5,12.5 0 0 1 -12.5,-12.5 12.5,12.5 0 0 1 12.5,-12.5 12.5,12.5 0 0 1 12.5,12.5 z"
+         id="path2280"
+         sodipodi:cx="325.00000"
+         sodipodi:cy="227.36218"
+         sodipodi:rx="12.500000"
+         sodipodi:ry="12.500000"
+         sodipodi:type="arc"
+         style="opacity:1;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible"
+         transform="translate(-37.50000,125.0000)" />
+    </g>
+    <g
+       id="g2282"
+       transform="matrix(0.500000,0.000000,0.000000,0.500000,66.39284,-89.24748)"
+       inkscape:export-filename="/home/vincent/AndroidStudioProjects/AleaJactaEst/app/src/main/res/drawable/dice4.png"
+       inkscape:export-xdpi="169.41176"
+       inkscape:export-ydpi="169.41176">
+      <rect
+         height="150.00000"
+         id="rect2284"
+         rx="50.000000"
+         ry="50.000000"
+         style="opacity:1;color:#000000;fill:#008000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible"
+         width="150.00000"
+         x="425.50000"
+         y="265.36218" />
+      <path
+         d="m 337.5,227.36218 a 12.5,12.5 0 0 1 -12.5,12.5 12.5,12.5 0 0 1 -12.5,-12.5 12.5,12.5 0 0 1 12.5,-12.5 12.5,12.5 0 0 1 12.5,12.5 z"
+         id="path2286"
+         sodipodi:cx="325.00000"
+         sodipodi:cy="227.36218"
+         sodipodi:rx="12.500000"
+         sodipodi:ry="12.500000"
+         sodipodi:type="arc"
+         style="opacity:1;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible"
+         transform="translate(139.0000,76.50000)" />
+      <path
+         d="m 337.5,227.36218 a 12.5,12.5 0 0 1 -12.5,12.5 12.5,12.5 0 0 1 -12.5,-12.5 12.5,12.5 0 0 1 12.5,-12.5 12.5,12.5 0 0 1 12.5,12.5 z"
+         id="path2288"
+         sodipodi:cx="325.00000"
+         sodipodi:cy="227.36218"
+         sodipodi:rx="12.500000"
+         sodipodi:ry="12.500000"
+         sodipodi:type="arc"
+         style="opacity:1;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible"
+         transform="translate(139.0000,148.5000)" />
+      <path
+         d="m 337.5,227.36218 a 12.5,12.5 0 0 1 -12.5,12.5 12.5,12.5 0 0 1 -12.5,-12.5 12.5,12.5 0 0 1 12.5,-12.5 12.5,12.5 0 0 1 12.5,12.5 z"
+         id="path2290"
+         sodipodi:cx="325.00000"
+         sodipodi:cy="227.36218"
+         sodipodi:rx="12.500000"
+         sodipodi:ry="12.500000"
+         sodipodi:type="arc"
+         style="opacity:1;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible"
+         transform="translate(211.0000,76.50000)" />
+      <path
+         d="m 337.5,227.36218 a 12.5,12.5 0 0 1 -12.5,12.5 12.5,12.5 0 0 1 -12.5,-12.5 12.5,12.5 0 0 1 12.5,-12.5 12.5,12.5 0 0 1 12.5,12.5 z"
+         id="path2292"
+         sodipodi:cx="325.00000"
+         sodipodi:cy="227.36218"
+         sodipodi:rx="12.500000"
+         sodipodi:ry="12.500000"
+         sodipodi:type="arc"
+         style="opacity:1;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible"
+         transform="translate(211.0000,148.5000)" />
+    </g>
+    <g
+       id="g2294"
+       transform="matrix(0.500000,0.000000,0.000000,0.500000,-6.357147,42.00257)"
+       inkscape:export-filename="/home/vincent/AndroidStudioProjects/AleaJactaEst/app/src/main/res/drawable/dice3.png"
+       inkscape:export-xdpi="169.41176"
+       inkscape:export-ydpi="169.41176">
+      <rect
+         height="150.00000"
+         id="rect2296"
+         rx="50.000000"
+         ry="50.000000"
+         style="opacity:1;color:#000000;fill:#008000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible"
+         width="150.00000"
+         x="413.00000"
+         y="2.8621826" />
+      <path
+         d="m 337.5,227.36218 a 12.5,12.5 0 0 1 -12.5,12.5 12.5,12.5 0 0 1 -12.5,-12.5 12.5,12.5 0 0 1 12.5,-12.5 12.5,12.5 0 0 1 12.5,12.5 z"
+         id="path2298"
+         sodipodi:cx="325.00000"
+         sodipodi:cy="227.36218"
+         sodipodi:rx="12.500000"
+         sodipodi:ry="12.500000"
+         sodipodi:type="arc"
+         style="opacity:1;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible"
+         transform="translate(126.5000,-186.0000)" />
+      <path
+         d="m 337.5,227.36218 a 12.5,12.5 0 0 1 -12.5,12.5 12.5,12.5 0 0 1 -12.5,-12.5 12.5,12.5 0 0 1 12.5,-12.5 12.5,12.5 0 0 1 12.5,12.5 z"
+         id="path2300"
+         sodipodi:cx="325.00000"
+         sodipodi:cy="227.36218"
+         sodipodi:rx="12.500000"
+         sodipodi:ry="12.500000"
+         sodipodi:type="arc"
+         style="opacity:1;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible"
+         transform="translate(198.5000,-114.0000)" />
+      <path
+         d="m 337.5,227.36218 a 12.5,12.5 0 0 1 -12.5,12.5 12.5,12.5 0 0 1 -12.5,-12.5 12.5,12.5 0 0 1 12.5,-12.5 12.5,12.5 0 0 1 12.5,12.5 z"
+         id="path2302"
+         sodipodi:cx="325.00000"
+         sodipodi:cy="227.36218"
+         sodipodi:rx="12.500000"
+         sodipodi:ry="12.500000"
+         sodipodi:type="arc"
+         style="opacity:1;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible"
+         transform="translate(162.5000,-150.0000)" />
+    </g>
+    <g
+       id="g2304"
+       transform="matrix(0.500000,0.000000,0.000000,0.500000,-185.3572,23.25257)"
+       inkscape:export-filename="/home/vincent/AndroidStudioProjects/AleaJactaEst/app/src/main/res/drawable/dice2.png"
+       inkscape:export-xdpi="169.41176"
+       inkscape:export-ydpi="169.41176">
+      <rect
+         height="150.00000"
+         id="rect2306"
+         rx="50.000000"
+         ry="50.000000"
+         style="opacity:1;color:#000000;fill:#008000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible"
+         width="150.00000"
+         x="613.00000"
+         y="40.362183" />
+      <path
+         d="m 337.5,227.36218 a 12.5,12.5 0 0 1 -12.5,12.5 12.5,12.5 0 0 1 -12.5,-12.5 12.5,12.5 0 0 1 12.5,-12.5 12.5,12.5 0 0 1 12.5,12.5 z"
+         id="path2308"
+         sodipodi:cx="325.00000"
+         sodipodi:cy="227.36218"
+         sodipodi:rx="12.500000"
+         sodipodi:ry="12.500000"
+         sodipodi:type="arc"
+         style="opacity:1;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible"
+         transform="translate(326.5000,-148.5000)" />
+      <path
+         d="m 337.5,227.36218 a 12.5,12.5 0 0 1 -12.5,12.5 12.5,12.5 0 0 1 -12.5,-12.5 12.5,12.5 0 0 1 12.5,-12.5 12.5,12.5 0 0 1 12.5,12.5 z"
+         id="path2310"
+         sodipodi:cx="325.00000"
+         sodipodi:cy="227.36218"
+         sodipodi:rx="12.500000"
+         sodipodi:ry="12.500000"
+         sodipodi:type="arc"
+         style="opacity:1;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible"
+         transform="translate(398.5000,-76.50000)" />
+    </g>
+    <g
+       id="g2312"
+       transform="matrix(0.500000,0.000000,0.000000,0.500000,-251.8572,-76.74748)"
+       inkscape:export-filename="/home/vincent/AndroidStudioProjects/AleaJactaEst/app/src/main/res/drawable/dice1.png"
+       inkscape:export-xdpi="169.41176"
+       inkscape:export-ydpi="169.41176">
+      <rect
+         height="150.00000"
+         id="rect2314"
+         rx="50.000000"
+         ry="50.000000"
+         style="opacity:1;color:#000000;fill:#008000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible"
+         width="150.00000"
+         x="588.00000"
+         y="240.36218" />
+      <path
+         d="m 337.5,227.36218 a 12.5,12.5 0 0 1 -12.5,12.5 12.5,12.5 0 0 1 -12.5,-12.5 12.5,12.5 0 0 1 12.5,-12.5 12.5,12.5 0 0 1 12.5,12.5 z"
+         id="path2316"
+         sodipodi:cx="325.00000"
+         sodipodi:cy="227.36218"
+         sodipodi:rx="12.500000"
+         sodipodi:ry="12.500000"
+         sodipodi:type="arc"
+         style="opacity:1;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible"
+         transform="translate(337.5000,87.50000)" />
+    </g>
+  </g>
+</svg>
