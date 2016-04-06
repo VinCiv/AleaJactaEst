@@ -11,12 +11,13 @@ import java.util.HashMap;
 import java.util.Random;
 
 /**
- * Implementation of App Widget functionality.
+ * Copyleft 2016 Vincent Mahé (vmahe@free.fr)
+ * The program is distributed under the terms of the GNU General Public License v3
  */
 public class AleaWidgetProvider extends AppWidgetProvider {
 
 	private Random random = new Random();
-	private static HashMap<String, Boolean> onOff = new HashMap<String, Boolean>();
+	private static HashMap<String, Boolean> onOff = new HashMap<>();
 
 	@Override
 	public void onUpdate(Context context, AppWidgetManager appWidgetManager, int[] appWidgetIds) {
@@ -90,7 +91,7 @@ public class AleaWidgetProvider extends AppWidgetProvider {
 
 	/**
 	 * Random value modulo 6 (as the random result is in [0,6[, kind of [0.0, 5.999], we add 1)
-	 * @return
+	 * @return the face of the dice
 	 */
 	private int getDiceValue() {
 		return random.nextInt(6) + 1;
@@ -100,8 +101,8 @@ public class AleaWidgetProvider extends AppWidgetProvider {
 	 * The dice must change visually between each throw,
 	 * for the user to see it when the result value is the same
 	 *
-	 * @param widgetId
-	 * @return
+	 * @param widgetId the ID of the current dice on screen (multiple dices allowed)
+	 * @return the new boolean value after the switch
 	 */
 	private boolean getOnOff(int widgetId) {
 
